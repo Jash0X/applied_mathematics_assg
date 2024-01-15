@@ -1,1 +1,1 @@
-"# applied_mathematics_assg" 
+Applied Mathematics Assginment 1
